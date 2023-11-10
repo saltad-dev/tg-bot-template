@@ -19,6 +19,9 @@ devDependencies:
   '@types/bunyan':
     specifier: ^1.8.11
     version: 1.8.11
+  '@types/node':
+    specifier: ^20.9.0
+    version: 20.9.0
   nodemon:
     specifier: ^3.0.1
     version: 3.0.1
