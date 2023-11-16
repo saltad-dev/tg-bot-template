@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsup",
+    "build": "tsup --dts",
     "lint": "tsc --noEmit",
     "dev": "nodemon --esm src/index.ts",
     "prod": "node dist/src/index.js"
